@@ -1,0 +1,6 @@
+{
+  "S": {"score": 15, "journals": ["Nature", "Science", "Cell"]},
+  "A": {"score": 10, "journals": ["Nature Neuroscience", "Nature Medicine", "Nature Immunology", "Nature Communications", "Neuron", "Immunity", "Cell Reports", "Science Translational Medicine", "Science Immunology", "Proceedings of the National Academy of Sciences of the United States of America", "The Journal of Clinical Investigation"]},
+  "B": {"score": 5, "journals": ["The Journal of Investigative Dermatology", "The Journal of Allergy and Clinical Immunology", "Pain", "The Journal of Neuroscience", "eLife", "Science Advances"]},
+  "C": {"score": 2, "journals": ["Itch", "The British Journal of Dermatology", "Experimental Dermatology", "Acta Dermato-Venereologica", "Molecular Pain"]}
+}
