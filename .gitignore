@@ -1,0 +1,17 @@
+# Transient working artifacts from the paper-search routines
+# (regenerated on every run; only the read_pmids_*.json state is committed)
+
+# esearch / efetch raw responses
+esearch_*.json
+efetch_*.xml
+
+# intermediate PMID lists
+fetched_pmids_*.txt
+read_pmids_*_sorted.txt
+new_pmids_*.txt
+new_pmids_*.json
+
+# parsing / notification build scratch
+parsed_*.json
+slack_payload_*.json
+build_slack_*.py
