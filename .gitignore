@@ -1,0 +1,7 @@
+# PubMed routine intermediate working files
+esearch_*.json
+efetch_*.xml
+fetched_pmids_*.txt
+new_pmids_*.txt
+new_pmids_*.json
+read_pmids_*_sorted.txt
