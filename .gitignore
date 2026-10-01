@@ -1,0 +1,10 @@
+# Transient working files from research routines (regenerated each run)
+esearch_*.json
+efetch_*.xml
+parsed_*.json
+fetched_pmids_*.txt
+new_pmids_*.txt
+new_pmids_*.json
+read_pmids_*_sorted.txt
+slack_message_*.txt
+slack_payload_*.json
