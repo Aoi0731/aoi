@@ -1,0 +1,11 @@
+# Transient per-run artifacts from the paper-search routines.
+# These are regenerated on every run; only the read_pmids_*.json state
+# files and journal_tiers.json are tracked.
+esearch_*.json
+efetch_*.xml
+fetched_pmids_*.txt
+new_pmids_*.txt
+new_pmids_*.json
+read_pmids_*_sorted.txt
+parsed_*.json
+slack_message_*.txt
