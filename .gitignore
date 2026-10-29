@@ -1,0 +1,9 @@
+# Ephemeral per-run artifacts from PubMed search routines
+# (raw API responses and intermediate diff files, regenerated each run).
+# Only the *_pmids*.json state files and journal_tiers.json are persistent.
+esearch_*.json
+efetch_*.xml
+fetched_pmids_*.txt
+new_pmids_*.txt
+new_pmids_*.json
+read_pmids_*_sorted.txt
