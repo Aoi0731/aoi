@@ -1,0 +1,12 @@
+# Transient artifacts regenerated on every routine run (not durable state).
+# Durable state that IS tracked: read_pmids*.json, journal_tiers.json
+
+# PubMed query/response intermediates
+esearch_*.json
+efetch_*.xml
+
+# PMID working/diff files
+fetched_pmids_*.txt
+new_pmids_*.txt
+new_pmids_*.json
+read_pmids_*_sorted.txt
